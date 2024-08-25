@@ -7,13 +7,13 @@
     "website": "https://example.com",
     "tintColor": "#4185A9",
     "featuredApps": [
-        "com.example.myapp",
+        "com.example.spotify++",
         "com.example.anotherapp"
     ],
     "apps": [
         {
-            "name": "My Example App",
-            "bundleIdentifier": "com.example.myapp",
+            "name": "Spotify++",
+            "bundleIdentifier": "com.example.spotify++",
             "developerName": "Example Developer",
             "subtitle": "An awesome app.",
             "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -57,6 +57,7 @@
                 }
             }
         },
+/*
         {
             "name": "Another Example App",
             "bundleIdentifier": "com.example.anotherapp",
@@ -124,6 +125,7 @@
                 }
             }
         }
+*/
     ],
     "news": [
         {
